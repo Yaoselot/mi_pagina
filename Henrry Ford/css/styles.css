@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+    padding: 10px 0px;
+    background-color: aqua;
+}
+
+.navegacion_superior a {
+    text-decoration: none;
+}
